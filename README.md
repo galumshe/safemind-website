@@ -11,7 +11,7 @@
 │   └── profile2.jpg
 └── README.md             # This file
 
-
+link to pitch deck https://gamma.app/docs/Safe-Mind-Empowering-Mental-Wellness-8see12wf6o7ntd7
 Here’s a brief description for your project, ideal for including in a README or an introductory section on your website:
 
 
