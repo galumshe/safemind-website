@@ -2,17 +2,21 @@
 ├── styles.css            # CSS file for styling
 ├── script.js             # JavaScript file for form validation and interactivity
 ├── /images               # Folder containing images used on the site
-│   ├── home-background.jpg
+│   ├── background.jpg
 │   ├── support-image.jpg
 │   ├── empower.jpg
 │   ├── healing-image.jpg
 │   ├── team-photo.png
-│   ├── profile1.jpg
+│   ├── contact us.png
+│   └── mental welness.jpg
+│   └── mission.jpg
+│   └── profile 1.jpg
 │   └── profile2.jpg
+│   └── testimonial.png
 └── README.md             # This file
 
-link to pitch deck https://gamma.app/docs/Safe-Mind-Empowering-Mental-Wellness-8see12wf6o7ntd7
-Here’s a brief description for your project, ideal for including in a README or an introductory section on your website:
+
+Here’s a brief description for my project, ideal for including in a README or an introductory section on your website:
 
 
 Safe Mind is a social initiative dedicated to providing free, accessible mental health consultation services for communities impacted by social unrest. Our mission is to bridge the gap in mental health resources by removing financial, geographical, and societal barriers to care. We offer personalized, compassionate support from a network of trusted mental health professionals, empowering individuals to overcome challenges and foster healing.
